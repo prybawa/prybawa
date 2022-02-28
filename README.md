@@ -19,6 +19,10 @@ My professional journey includes entrepreneurial endeavors in medical technology
 |Data Management|10/10|
 |Data Analysis|10/10|
 
+## Education
+- B.E. in Biomedical Engineering
+- Master of Public Health (MPH) in Epidemiology and Biostatistics
+
 ## Fun Fact!
 > Let's just get this straight for a second, I'ma work
 > 
@@ -28,9 +32,6 @@ My professional journey includes entrepreneurial endeavors in medical technology
 > 
 > I'ma keep it in a motion, keep it moving like kinetic, ayy (yeah, yeah, yeah, yeah)
 
-## Education
-- B.E. in Biomedical Engineering
-- Master of Public Health (MPH) in Epidemiology and Biostatistics
 
 
 ## Contact
