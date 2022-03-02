@@ -11,8 +11,8 @@ My professional journey includes entrepreneurial endeavors in medical technology
 ## Technical Skills
 |Skill|Proficiency|
 |-|-|
-|MySQL|10/10|
-|Microsoft Power BI|10/10|
+|MySQL|7/10|
+|Microsoft Power BI|7/10|
 |Salesforce|10/10|
 |Airtable|10/10|
 |Zapier|10/10|
